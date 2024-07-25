@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm [Your Name], a dedicated cybersecurity professional with a focus on network mapping and monitoring. I specialize in identifying and addressing vulnerabilities and threats within network environments using industry-standard tools such as Nmap and Wireshark. My hands-on experience and continuous learning in the field enable me to stay ahead of emerging threats and implement effective security measures.
+Hello! I'm Alex, a dedicated cybersecurity professional I will be focusing on network mapping and monitoring in this project. I have used Zenmap and wireshark in identifying and addressing vulnerabilities and threats within network environments using these industry-standard toolsk. My hands-on experience and continuous learning in the field enable me to stay ahead of emerging threats and implement effective security measures.
 
 ## Competencies
 
